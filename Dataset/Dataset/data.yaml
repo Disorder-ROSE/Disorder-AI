@@ -1,5 +1,6 @@
 train: /content/drive/MyDrive/YOLO/Dataset/train/images
+test: /content/drive/MyDrive/YOLO/Dataset/test/images
 val: /content/drive/MyDrive/YOLO/Dataset/valid/images
 
 nc: 8
-names: ['꼬깔콘 고소한맛', '농심매운새우깡', '콘초', '농심바나나킥', '포카칩오리지널', '도도한나쵸미니미크림어니언맛', '허니버터칩', '도리토스나쵸치즈맛']
+names: ['꼬깔콘고소한맛', '농심매운새우깡', '콘초', '농심바나나킥', '포카칩오리지널', '도도한나쵸미니미크림어니언맛', '허니버터칩', '도리토스나쵸치즈맛']
